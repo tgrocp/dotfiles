@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tgrocp@gmail.com
+	name = Xu
